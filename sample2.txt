@@ -1,0 +1,3 @@
+Asyncio helps manage tasks
+Threads help with file reading
+Process pool helps CPU work
