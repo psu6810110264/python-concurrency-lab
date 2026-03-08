@@ -19,7 +19,7 @@
 
 ---
 
-# Features / ความสามารถของโปรแกรม
+## Features / ความสามารถของโปรแกรม
 
 โปรแกรมสามารถทำงานดังนี้
 
@@ -31,7 +31,7 @@
 
 ---
 
-# Technologies Used / เทคโนโลยีที่ใช้
+## Technologies Used / เทคโนโลยีที่ใช้
 
 - Python 3
 - asyncio
@@ -44,4 +44,13 @@
 
 ---
 
-# Project Structure / โครงสร้างโปรเจกต์
+## Project Structure / โครงสร้างโปรเจกต์
+
+```text
+python-concurrency-lab/
+│
+├── main.py
+├── README.md
+├── sample1.txt
+├── sample2.txt
+└── sample3.txt
